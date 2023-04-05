@@ -1,0 +1,34 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="4">
+            <item index="0" class="java.lang.String" itemvalue="environs" />
+            <item index="1" class="java.lang.String" itemvalue="aiogram" />
+            <item index="2" class="java.lang.String" itemvalue="selenium" />
+            <item index="3" class="java.lang.String" itemvalue="protobuf" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="new_sections.models.Question.objects" />
+          <option value="new_sections.models.UserAnswer.objects" />
+          <option value="new_sections.models.Answer.objects" />
+          <option value="new_sections.models.QuestionSet.objects" />
+          <option value="new_sections.models.Theme.objects" />
+          <option value="new_sections.models.UserQuestionSet.objects" />
+          <option value="marlins_trainer.models.Profile.objects" />
+          <option value="yoo_kassa_app.models.Payments.objects" />
+          <option value="yoo_kassa_app.models.Payment.objects" />
+          <option value="marlins_trainer.models.Dictionary.objects" />
+          <option value="src.example_app.models.Person.objects" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
